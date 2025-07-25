@@ -1,0 +1,40 @@
+.padd_extremos{
+	padding-left: 20px;
+	margin-bottom: 10px;
+}
+
+.hr_compras{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.padd_r20{
+	margin-right: 20px;
+}
+.marg_but10{
+	margin-bottom: 10px;
+}
+
+.titles_compras{
+	background-color: rgba(255, 255, 255, 0.3);
+	text-align:center;
+	margin-right: 20px !important;
+}
+
+.botones {
+    background-color: transparent;
+    margin-right: 5px;
+}
+
+.userIcons{
+	padding: 0 !important;
+}
+
+#compras td{
+	padding: 2px !important;
+}
+
+#t_aprobados input{
+	font-size: 8px;
+}

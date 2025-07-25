@@ -1,0 +1,12 @@
+.numeros input[type="number"]{
+	width: 50%;
+}
+.table{
+	margin: 0 !important;
+}
+.tablaBancos{
+	font-size: 10px;
+}
+.padding0{
+padding: 0 !important;
+}
